@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="rolk.png"><SubTexture name="rolk idle0000" x="0" y="0" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="rolk idle0001" x="1284" y="0" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="rolk idle0002" x="2568" y="0" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="rolk idle0003" x="3852" y="0" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="rolk idle0004" x="0" y="1284" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="rolk idle0005" x="1284" y="1284" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="rolk left0000" x="2568" y="1284" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="rolk left0001" x="3852" y="1284" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="rolk left0002" x="0" y="2568" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="rolk right0000" x="1284" y="2568" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="rolk right0001" x="2568" y="2568" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="rolk right0002" x="3852" y="2568" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="rolk down0000" x="0" y="3852" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="rolk down0001" x="1284" y="3852" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="rolk down0002" x="2568" y="3852" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="rolk up0000" x="3852" y="3852" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="rolk up0001" x="0" y="5136" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="rolk up0002" x="1284" y="5136" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+</TextureAtlas>
