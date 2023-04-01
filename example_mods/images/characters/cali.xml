@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cali.png"><SubTexture name="cali idle0000" x="0" y="0" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="cali idle0001" x="1284" y="0" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="cali idle0002" x="2568" y="0" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="cali idle0003" x="3852" y="0" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="cali idle0004" x="5136" y="0" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="cali idle0005" x="0" y="1284" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="cali idle0006" x="1284" y="1284" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="cali idle0007" x="2568" y="1284" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="cali idle0008" x="3852" y="1284" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="cali right0000" x="5136" y="1284" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="cali right0001" x="0" y="2568" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="cali right0002" x="1284" y="2568" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="cali right0003" x="2568" y="2568" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="cali right0004" x="3852" y="2568" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="cali up0000" x="5136" y="2568" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="cali up0001" x="0" y="3852" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="cali up0002" x="1284" y="3852" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="cali up0003" x="2568" y="3852" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="cali up0004" x="3852" y="3852" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="cali down0000" x="5136" y="3852" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="cali down0001" x="0" y="5136" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="cali down0002" x="1284" y="5136" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="cali down0003" x="2568" y="5136" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="cali down0004" x="3852" y="5136" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="cali left0000" x="5136" y="5136" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="cali left0001" x="0" y="6420" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="cali left0002" x="1284" y="6420" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="cali left0003" x="2568" y="6420" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="cali left0004" x="3852" y="6420" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+</TextureAtlas>

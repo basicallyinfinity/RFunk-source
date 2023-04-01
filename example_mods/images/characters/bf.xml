@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf.png"><SubTexture name="bf idle0000" x="0" y="0" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="bf idle0001" x="1284" y="0" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="bf idle0002" x="2568" y="0" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="bf idle0003" x="3852" y="0" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="bf up0000" x="5136" y="0" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="bf up0001" x="0" y="1284" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="bf up0002" x="1284" y="1284" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="bf left0000" x="2568" y="1284" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="bf left0001" x="3852" y="1284" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="bf left0002" x="5136" y="1284" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="bf right0000" x="0" y="2568" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="bf right0001" x="1284" y="2568" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="bf right0002" x="2568" y="2568" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="bf down0000" x="3852" y="2568" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="bf down0001" x="5136" y="2568" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="bf down0002" x="0" y="3852" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="bf miss_up0000" x="1284" y="3852" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="bf miss_up0001" x="2568" y="3852" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="bf miss_left0000" x="3852" y="3852" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="bf miss_left0001" x="5136" y="3852" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="bf miss_right0000" x="0" y="5136" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="bf miss_right0001" x="1284" y="5136" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="bf missdown0000" x="2568" y="5136" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="bf missdown0001" x="3852" y="5136" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="bf death0000" x="5136" y="5136" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="bf death0001" x="0" y="6420" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="bf death0002" x="1284" y="6420" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="bf death0003" x="2568" y="6420" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="bf death0004" x="3852" y="6420" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="bf death0005" x="5136" y="6420" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="bf death0006" x="0" y="7704" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="bf death0007" x="1284" y="7704" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="bf deathloop0000" x="2568" y="7704" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="bf death_confirm0000" x="3852" y="7704" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="bf death_confirm0001" x="5136" y="7704" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+</TextureAtlas>
