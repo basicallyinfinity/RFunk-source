@@ -28,7 +28,7 @@ class RichardStoryMenuState extends MusicBeatState
     add(outline);
     menuItems = new FlxTypedGroup<FlxSprite>();
     add(menuItems);
-    var text = Paths.getSparrowAtlas(''richstorymenu/items);
+    var text = Paths.getSparrowAtlas('richstorymenu/items');
     
     for (i in 0...optionShit.length)
     {
