@@ -20,7 +20,7 @@ A mod Specifically for an in-development webseries, "The R-Squad".
 * Keoiki - Note Splash Animations
 * Smokey - Sprite Atlas Support
 * Nebula the Zorua - LUA JIT Fork and some Lua reworks
-###
+### OG friday Night funkin Team
 * ninjamuffin99 - Programming
 * PhantomArcade3K and Evilsk8r - Art
 * Kawai Sprite - Music
