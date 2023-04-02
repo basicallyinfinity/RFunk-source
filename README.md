@@ -1,6 +1,6 @@
 # R-Squad Funkin - VS The R-Squad
 
-A mod Specifically for an in-development webseries, "The R-Squad". 
+A mod Specifically for an in-development webseries, "The R-Squad". The engine for this mod is Psych Engine.
 
 ### The RF Team
 
