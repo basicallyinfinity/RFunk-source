@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"cpu",
+			"rolktus",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"depredication",
+			"rolktus-peeved",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"emp",
+			"rolktus-emp",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Rolktus",
+	"weekName": "Rolktus Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
