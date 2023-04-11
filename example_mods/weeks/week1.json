@@ -2,7 +2,7 @@
 	"songs": [
 		[
 			"cpu",
-			"rolktus",
+			"rolk",
 			[
 				146,
 				113,
@@ -11,7 +11,7 @@
 		],
 		[
 			"depredication",
-			"rolktus-peeved",
+			"rolk-peeved",
 			[
 				146,
 				113,
@@ -20,7 +20,7 @@
 		],
 		[
 			"emp",
-			"rolktus-emp",
+			"rolk-emp",
 			[
 				146,
 				113,
@@ -30,8 +30,7 @@
 	],
 	"hiddenUntilUnlocked": false,
 	"hideFreeplay": false,
-	"weekBackground": "",
-	"difficulties": "Normal",
+	"weekBackground": ""
 	"weekCharacters": [
 		"",
 		"",
