@@ -47,7 +47,8 @@ class MainMenuState extends MusicBeatState
 	var camFollow:FlxObject;
 	var camFollowPos:FlxObject;
 	var debugKeys:Array<FlxKey>;
-
+	var scationcharCrap:FlxSprite;
+	
 	override function create()
 	{
 		#if MODS_ALLOWED
@@ -158,6 +159,18 @@ class MainMenuState extends MusicBeatState
 		#end
 
 		super.create();
+		
+		switch(FlxG.random.int(1, 1)) {
+			case 1:
+				char = new FlxSprite(820, 170).loadGraphic(Paths.image('characters/Rolktus'));
+				char.frames = Patha.getSparrowAtlas('characters/rolktus');
+				char.animation.addByPrefix('idle_uwu', 'idle', 24, true);
+				char.animation.play('idle_uwu');
+				char.scrollFactor.set();
+				char.flipX = true;
+				char.antialiasing = ClientPrefs.globalAntialiasing;
+				add(char);
+		}
 	}
 
 	#if ACHIEVEMENTS_ALLOWED
@@ -269,7 +282,7 @@ class MainMenuState extends MusicBeatState
 
 		menuItems.forEach(function(spr:FlxSprite)
 		{
-			spr.screenCenter(X);
+			//spr.screenCenter(X);
 		});
 	}
 
