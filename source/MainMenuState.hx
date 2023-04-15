@@ -163,7 +163,7 @@ class MainMenuState extends MusicBeatState
 		switch(FlxG.random.int(1, 1)) {
 			case 1:
 				char = new FlxSprite(820, 170).loadGraphic(Paths.image('characters/Rolktus'));
-				char.frames = Patha.getSparrowAtlas('characters/rolktus');
+				char.frames = Paths.getSparrowAtlas('characters/rolktus');
 				char.animation.addByPrefix('idle_uwu', 'idle', 24, true);
 				char.animation.play('idle_uwu');
 				char.scrollFactor.set();
