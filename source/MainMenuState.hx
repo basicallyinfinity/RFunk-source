@@ -120,7 +120,7 @@ class MainMenuState extends MusicBeatState
 			menuItem.animation.addByPrefix('selected', optionShit[i] + " white", 24);
 			menuItem.animation.play('idle');
 			menuItem.ID = i;
-			menuItem.x -= 750;
+			menuItem.x = 100;
 			menuItems.add(menuItem);
 			var scr:Float = (optionShit.length - 4) * 0.135;
 			if(optionShit.length < 6) scr = 0;
@@ -162,7 +162,7 @@ class MainMenuState extends MusicBeatState
 		
 		switch(FlxG.random.int(1, 1)) {
 			case 1:
-				char = new FlxSprite(820, 150).loadGraphic(Paths.image('characters/Rolktus'));
+				char = new FlxSprite(820, 120).loadGraphic(Paths.image('characters/Rolktus'));
 				char.frames = Paths.getSparrowAtlas('characters/rolktus');
 				char.animation.addByPrefix('idle_uwu', 'idle', 24, true);
 				char.animation.play('idle_uwu');
